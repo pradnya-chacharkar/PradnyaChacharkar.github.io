@@ -1,0 +1,51 @@
+p{
+	text-indent: 
+}
+.bodyborder{
+	border-style: inherit;	
+	border-color: #909090;	
+	font-family: 'Roboto', sans-serif;
+	font-size: 120%;
+	color: #536e7a;
+}
+#MyName{
+	top: 35%;
+	color: #f2f1dd;	
+	text-align: right;
+	font-size: 1.5em;	
+	border-bottom-style: double;
+}
+.nameTag{
+	color: #eeeee1;	
+	font-size: 0.8em;
+	
+	
+}
+.cover {
+	max-width: 100%;
+    height: auto;
+    /*background-image: url("http://www.rvphotographics.com/images/gallery/BW2/Seattle-Morning.jpg");*/
+    background-image: url("https://images.unsplash.com/photo-1437809781432-a957377661ee?ixlib=rb-0.3.5&s=7e2122d30d2305220fa66d47b4d843d6&auto=format&fit=crop&w=1860&q=80");
+    background-size: cover; 
+    background-position: center;
+      
+}
+
+.label{
+	border-top: solid;
+}
+
+#icons{
+	width: 23px;
+}
+.fa-envelope-square{
+	font-size: 1.2em;
+	color: #8B4513;
+}
+.fa-linkedin{
+	font-size: 1.2em;
+}
+
+
+
+
