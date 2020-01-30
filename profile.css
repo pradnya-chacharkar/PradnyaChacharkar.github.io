@@ -24,7 +24,8 @@ p{
 .cover {
 	max-width: 100%;
     height: auto;
-    background-image: url("https://images.unsplash.com/photo-1580371470695-0ef49cf1ff45?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9");
+    /*background-image: url("http://www.rvphotographics.com/images/gallery/BW2/Seattle-Morning.jpg");*/
+    background-image: url("https://images.unsplash.com/photo-1437809781432-a957377661ee?ixlib=rb-0.3.5&s=7e2122d30d2305220fa66d47b4d843d6&auto=format&fit=crop&w=1860&q=80");
     background-size: cover; 
     background-position: center;
       
